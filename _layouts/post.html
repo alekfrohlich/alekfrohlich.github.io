@@ -2,8 +2,48 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
+<style>
+    .theorem {
+    display: block;
+    font-style: italic;
+    }
+    .theorem:before {
+    content: "Theorem. ";
+    font-weight: bold;
+    font-style: normal;
+    }
+    .theorem[text]:before {
+    content: "Theorem (" attr(text) ") ";
+    }
+    .definition {
+    display: block;
+    font-style: italic;
+    }
+    .definition:before {
+    content: "Definition. ";
+    font-weight: bold;
+    font-style: normal;
+    }
+    .definition[text]:before {
+    content: "Definition (" attr(text) ") ";
+    }
+    .hypothesis {
+    display: block;
+    font-style: italic;
+    }
+    .hypothesis:before {
+    content: "Hypothesis. ";
+    font-weight: bold;
+    font-style: normal;
+    }
+    .hypothesis[text]:before {
+    content: "Hypothesis (" attr(text) ") ";
+    }       
+</style>
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">

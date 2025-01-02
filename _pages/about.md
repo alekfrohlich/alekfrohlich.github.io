@@ -19,7 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a M.Sc. student at UFSC, where I currently study Machine Learning towards a masters degree in Mathematics. I am also a member of the Laboratory for Translational Data Science at the Hospital das Clinicas University Hospital (USP), where I help explore the vast amount of predictive information contained in H&E slides with the goal of improving our understanding of Breast Cancer.
+I am a first year [ELLIS](https://ellis.eu/) Ph.D. student at the Italian Institute of Technology under the supervision of Massimiliano Pontil ([CSML](https://csml.iit.it/)) and Karim Lounici ([École Polytechnique](https://scholar.google.com/citations?user=ZMbRpJoAAAAJ&hl=fr)).
+
+<!-- I received a Master's degree in Applied Mathematics from the Universidade Federal de Santa Catarina (UFSC), where I also received a Bachelor's degree in Computer Science. -->
+
+
+<!-- I am a M.Sc. student at UFSC, where I currently study Machine Learning towards a masters degree in Mathematics. I am also a member of the Laboratory for Translational Data Science at the Hospital das Clinicas University Hospital (USP), where I help explore the vast amount of predictive information contained in H&E slides with the goal of improving our understanding of Breast Cancer. -->
 
 <!-- I am particularly interested in the  -->
 <!-- . I have a B.Sc. in Computer Science, also from UFSC.

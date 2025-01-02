@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first year [ELLIS](https://ellis.eu/) Ph.D. student at the Italian Institute of Technology under the supervision of Massimiliano Pontil ([CSML](https://csml.iit.it/)) and Karim Lounici ([École Polytechnique](https://scholar.google.com/citations?user=ZMbRpJoAAAAJ&hl=fr)).
 
+I am broadly interested on bridging machine learning and medicine, where data is often scarce, models are commonly misspecified, and confounding factors abound. On the theoretical side, my interests lie in causality, uncertainty quantification, and developing rigorous guarantees for machine learning algorithms. On the applied side, I have been using machine learning and statistics to explore the vast amount of information contained in hematoxylin and eosin whole slide images and improving decision-making in clinical settings, particularly breast cancer care.
+
 <!-- I received a Master's degree in Applied Mathematics from the Universidade Federal de Santa Catarina (UFSC), where I also received a Bachelor's degree in Computer Science. -->
 
 

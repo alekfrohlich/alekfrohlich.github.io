@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lab-tds.github.io'>Laboratory for Translational Data Science</a> - <a href='https://ppgmtm.posgrad.ufsc.br/'>UFSC</a>
+subtitle: <a href='https://csml.iit.it/'>Computational Statistics and Machine Learning</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>HC University Hospital, 8th floor.</p>
-    <p>Bandeirantes Ave, 3900, Universitary Campus.</p>
-    <p>Ribeirao Preto, Sao Paulo, Brazil.</p>
+    <p>PhD Student</p>
+    <p>CSML, Italian Institute of Technology (IIT)</p>
+    <p>Genoa, Italy</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

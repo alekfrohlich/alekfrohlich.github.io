@@ -6,7 +6,7 @@ subtitle: <a href='https://csml.iit.it/'>Computational Statistics and Machine Le
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jepg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Ph.D. Student,</p>

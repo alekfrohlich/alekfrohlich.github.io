@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a-first year [ELLIS](https://ellis.eu/) Ph.D. student at the Italian Institute of Technology under the supervision of [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en&oi=ao) (IIT & UCL) and [Karim Lounici](https://scholar.google.com/citations?user=ZMbRpJoAAAAJ&hl=fr) (École Polytechnique).
+I am a-first year [ELLIS](https://ellis.eu/) Ph.D. student at the [Italian Institute of Technology](https://www.iit.it/) under the supervision of [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en&oi=ao) (IIT & UCL) and [Karim Lounici](https://scholar.google.com/citations?user=ZMbRpJoAAAAJ&hl=fr) (École Polytechnique).
 
 Previously, I was a research fellow at the [University of São Paulo Medical School](https://www5.usp.br/english/institutional/), where I worked with [Daniel Tiezzi](https://scholar.google.com/citations?user=h50SV8wAAAAJ&hl=en&oi=ao) on breast cancer heterogeneity and malignancy prediction.
 

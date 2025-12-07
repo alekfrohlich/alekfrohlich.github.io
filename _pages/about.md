@@ -19,13 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a-first year [ELLIS](https://ellis.eu/) Ph.D. student at the [Italian Institute of Technology](https://www.iit.it/) under the supervision of [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en&oi=ao) (IIT & UCL) and [Karim Lounici](https://scholar.google.com/citations?user=ZMbRpJoAAAAJ&hl=fr) (École Polytechnique).
+I am a second-year [ELLIS](https://ellis.eu/) Ph.D. student at the [Italian Institute of Technology](https://www.iit.it/) under the supervision of [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en&oi=ao) (IIT & UCL), [Karim Lounici](https://scholar.google.com/citations?user=ZMbRpJoAAAAJ&hl=fr) (École Polytechnique), and [Vladimir Kostic](https://scholar.google.com/citations?user=66gV7SAAAAAJ&hl=en) (IIT & Univ. of Novi Sad).
 
 Previously, I was a research fellow at the [University of São Paulo Medical School](https://www5.usp.br/english/institutional/) working with [Daniel Tiezzi](https://scholar.google.com/citations?user=h50SV8wAAAAJ&hl=en&oi=ao).
 
 I am broadly interested on bridging machine learning and medicine, where data is often scarce, models are commonly misspecified, and confounding factors abound. On the theoretical side, my interests lie in causality, uncertainty quantification, and developing rigorous guarantees for machine learning algorithms. On the applied side, I have been using machine learning and statistics to explore the vast amount of information contained in hematoxylin and eosin whole slide images and improving decision-making in clinical settings, particularly breast cancer care.
-
-In my free time, I enjoy exploring mindfulness and thinking deeply about random things, especially while appreciating the beauty of nature or admiring architecture.
 
 <!-- I received a Master's degree in Applied Mathematics from the Universidade Federal de Santa Catarina (UFSC), where I also received a Bachelor's degree in Computer Science. -->
 

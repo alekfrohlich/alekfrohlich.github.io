@@ -18,10 +18,7 @@ nav: false
 <figure class="workshop-city-preview">
   <img src="{{ '/assets/img/porto_antico.png' | relative_url }}" alt="Genoa's Porto Antico harbor at dusk">
   <figcaption>
-    Genoa, Porto Antico
-    <span class="workshop-image-credit">
-      Genoa, Porto Antico, adapted from Alessio Sbarbaro — CC BY-SA 3.0.
-    </span>
+     Genoa, Porto Antico, adapted from Alessio Sbarbaro — CC BY-SA 3.0.
   </figcaption>
 </figure>
 

@@ -6,8 +6,8 @@ description:
 nav: false
 ---
 
-Location: Italian Institute of Technology, Center for Human Technologies, Tower B at GREAT Campus - Parco Scientifico e Tecnologico, Via Enrico Melen, 83, 16152 Genoa, Italy.
-Date: Tuesday, 19 May 2026
+Location: Italian Institute of Technology, Center for Human Technologies, Tower B at GREAT Campus - Parco Scientifico e Tecnologico, Via Enrico Melen, 83, 16152 Genoa, Italy. Pita
+Date: Tuesday, 19 May 2026.
 
 ## Christoph's Group
 
@@ -31,7 +31,6 @@ Date: Tuesday, 19 May 2026
 | Name | Research topics |
 | --- | --- |
 | Alek Fröhlich | Causal Inference, Uncertainty Quantification, Representation Learning |
-| Daniel Ordonez | Robotics, Symmetries, Representation Learning |
 | Daniel Perazzo | Causal Inference, Climate Sciences, Representation Learning |
 | Erfan Mirzaei | PAC-Bayes, Deep Learning Theory |
 | Matia Bojovic | Numerical Optimization, Adaptive Methods |
@@ -41,14 +40,12 @@ Date: Tuesday, 19 May 2026
 | Name | Research topics |
 | --- | --- |
 | Giacomo Turri | AI4Science, Representation Learning |
-| Timothée Devergne | Molecular Dynamics, Kernel Methods, Operator Learning |
 
 ### Researchers
 
 | Name | Research topics |
 | --- | --- |
 | Pietro Novelli | AI4Science, Representation Learning |
-| Saverio Salzo | Numerical Optimization, Convex Analysis |
 | Vladimir Kostic | Numerical Linear Algebra, Operator Learning, Kernel Methods |
 
 ## Program
@@ -56,9 +53,6 @@ Date: Tuesday, 19 May 2026
 | Time | Session |
 | --- | --- |
 | 10h-11h30 | Lampert's group: 8 PhD presentations (45m) + overview talk (30m) |
-| 10h30-11h | Coffee break |
-| 11h-12h30 | Massi's group: 6 PhD presentations (+2 postdocs?) (45m) + overview talk (30m) |
-| 12h30-14h | Lunch break |
-| 14h-15h30 | TBD (invited speakers? Tutorial? Hackathon?) |
-| 15h30-17h | Coffee break + poster session |
-
+| 12h-13h30 | Lunch break |
+| 13h30-15h | Massi's group: 6 PhD presentations (+2 postdocs?) (45m) + overview talk (30m) |
+| 15h-17h | Coffee break + poster session |

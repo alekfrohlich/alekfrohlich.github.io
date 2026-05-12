@@ -70,5 +70,5 @@ Date: Tuesday, 19 May 2026. Pitagora room 10th floor.
 | --- | --- |
 | 10h-11h30 | Lampert's group: 8 PhD presentations (45m) + overview talk (30m) |
 | 12h-13h30 | Lunch break |
-| 13h30-15h | Massi's group: 6 PhD presentations (+2 postdocs?) (45m) + overview talk (30m) |
+| 13h30-15h | Massi's group: 4 PhD and 1 postdoc presentations (45m) + overview talk (30m) |
 | 15h-17h | Coffee break + poster session |

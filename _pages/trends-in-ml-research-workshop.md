@@ -81,7 +81,7 @@ nav: false
 
 | Time | Session |
 | --- | --- |
-| 10h-11h30 | Lampert's group: 8 PhD presentations (45m) + overview talk (30m) |
+| 10h-12h | Lampert's group: 8 PhD presentations (1h) + overview talk (30m) |
 | 12h-13h30 | Lunch break |
 | 13h30-15h | Massi's group: 4 PhD presentations (+1 postdoc) (45m) + overview talk (30m) |
 | 15h-17h | Coffee break + poster session |

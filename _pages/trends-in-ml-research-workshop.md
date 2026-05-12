@@ -15,6 +15,16 @@ nav: false
   </a>
 </div>
 
+<figure class="workshop-city-preview">
+  <img src="{{ '/assets/img/porto_antico.png' | relative_url }}" alt="Genoa's Porto Antico harbor at dusk">
+  <figcaption>
+    Genoa, Porto Antico
+    <span class="workshop-image-credit">
+      Description: Italiano: Barche ormeggiate nel porto antico di Genova. Date: 5 March 2010. Source: Own work. Author: Alessio Sbarbaro, User:Yoggysot. Permission: own work, copyleft; multi-license with GFDL and Creative Commons CC-BY-SA-3.0 and older versions 2.0 and 1.0. This file was uploaded with Commonist.
+    </span>
+  </figcaption>
+</figure>
+
 <dl class="workshop-details">
   <div class="workshop-details__item">
     <dt><i class="far fa-calendar-alt" aria-hidden="true"></i> Date</dt>

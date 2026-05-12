@@ -209,6 +209,36 @@ blockquote {
   }
 }
 
+.workshop-city-preview {
+  margin: 0 0 1.5rem;
+
+  img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 16 / 7;
+    object-fit: cover;
+    object-position: center;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 8px;
+  }
+
+  figcaption {
+    margin-top: 0.5rem;
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    text-align: center;
+  }
+}
+
+.workshop-image-credit {
+  display: block;
+  margin: 0.35rem auto 0;
+  max-width: 48rem;
+  font-size: 0.75rem;
+  line-height: 1.45;
+}
+
 .workshop-details {
   display: grid;
   gap: 0;
@@ -276,6 +306,10 @@ blockquote {
     img {
       height: 2.75rem;
     }
+  }
+
+  .workshop-city-preview img {
+    aspect-ratio: 4 / 3;
   }
 
   .workshop-details__item {

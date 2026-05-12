@@ -6,6 +6,15 @@ description:
 nav: false
 ---
 
+<div class="workshop-logos" aria-label="Participating institutions">
+  <a class="workshop-logo-link workshop-logo-link--iit" href="https://www.iit.it/" aria-label="Italian Institute of Technology">
+    <img src="{{ '/assets/img/IIT_logo.png' | relative_url }}" alt="Italian Institute of Technology logo">
+  </a>
+  <a class="workshop-logo-link workshop-logo-link--ista" href="https://ista.ac.at/" aria-label="Institute of Science and Technology Austria">
+    <img src="{{ '/assets/img/ISTA_logo.png' | relative_url }}" alt="Institute of Science and Technology Austria logo">
+  </a>
+</div>
+
 <dl class="workshop-details">
   <div class="workshop-details__item">
     <dt><i class="far fa-calendar-alt" aria-hidden="true"></i> Date</dt>

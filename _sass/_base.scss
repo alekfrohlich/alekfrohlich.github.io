@@ -163,6 +163,52 @@ blockquote {
   }
 }
 
+.workshop-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  background: $white-color;
+}
+
+.workshop-logo-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 5rem;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+}
+
+.workshop-logo-link--iit {
+  flex: 0 0 7rem;
+
+  img {
+    height: 4.75rem;
+  }
+}
+
+.workshop-logo-link--ista {
+  flex: 1 1 18rem;
+
+  img {
+    height: 4rem;
+  }
+}
+
 .workshop-details {
   display: grid;
   gap: 0;
@@ -207,6 +253,31 @@ blockquote {
 }
 
 @media (max-width: 575px) {
+  .workshop-logos {
+    gap: 1rem;
+    padding: 0.875rem 1rem;
+  }
+
+  .workshop-logo-link {
+    min-height: 4rem;
+  }
+
+  .workshop-logo-link--iit {
+    flex-basis: 4.75rem;
+
+    img {
+      height: 3.5rem;
+    }
+  }
+
+  .workshop-logo-link--ista {
+    flex-basis: 10rem;
+
+    img {
+      height: 2.75rem;
+    }
+  }
+
   .workshop-details__item {
     grid-template-columns: 1fr;
     gap: 0.35rem;

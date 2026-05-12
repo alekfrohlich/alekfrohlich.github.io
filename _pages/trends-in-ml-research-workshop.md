@@ -2,9 +2,12 @@
 layout: page
 title: Trends in ML Research Workshop
 permalink: /trends-in-ml-research-workshop/
-description: Workshop at IIT.
+description:
 nav: false
 ---
+
+Location: Italian Institute of Technology, Center for Human Technologies, Tower B at GREAT Campus - Parco Scientifico e Tecnologico, Via Enrico Melen, 83, 16152 Genoa, Italy.
+Date: Tuesday, 19 May 2026
 
 ## Christoph's Group
 
@@ -31,7 +34,6 @@ nav: false
 | Daniel Ordonez | Robotics, Symmetries, Representation Learning |
 | Daniel Perazzo | Causal Inference, Climate Sciences, Representation Learning |
 | Erfan Mirzaei | PAC-Bayes, Deep Learning Theory |
-| Marco Prattico | Reinforcement Learning |
 | Matia Bojovic | Numerical Optimization, Adaptive Methods |
 
 ### Postdocs
@@ -53,7 +55,7 @@ nav: false
 
 | Time | Session |
 | --- | --- |
-| 9h-10h30 | Lampert's group: 8 PhD presentations (45m) + overview talk (30m) |
+| 10h-11h30 | Lampert's group: 8 PhD presentations (45m) + overview talk (30m) |
 | 10h30-11h | Coffee break |
 | 11h-12h30 | Massi's group: 6 PhD presentations (+2 postdocs?) (45m) + overview talk (30m) |
 | 12h30-14h | Lunch break |

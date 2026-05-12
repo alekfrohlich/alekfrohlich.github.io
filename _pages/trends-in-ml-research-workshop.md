@@ -7,7 +7,7 @@ nav: false
 ---
 
 Location: Italian Institute of Technology, Center for Human Technologies, Tower B at GREAT Campus - Parco Scientifico e Tecnologico, Via Enrico Melen, 83, 16152 Genoa, Italy. Pita
-Date: Tuesday, 19 May 2026.
+Date: Tuesday, 19 May 2026. Pitagora room 10th floor.
 
 ## Christoph's Group
 
@@ -24,6 +24,10 @@ Date: Tuesday, 19 May 2026.
 | Ileana Rugina | LLM Safety/Security |
 | Cristina Lopez Amado | Deep Learning Theory |
 
+
+<br>
+
+
 ## Massi's Group
 
 ### PhD Students
@@ -35,11 +39,19 @@ Date: Tuesday, 19 May 2026.
 | Erfan Mirzaei | PAC-Bayes, Deep Learning Theory |
 | Matia Bojovic | Numerical Optimization, Adaptive Methods |
 
+
+<br>
+
+
 ### Postdocs
 
 | Name | Research topics |
 | --- | --- |
 | Giacomo Turri | AI4Science, Representation Learning |
+
+
+<br>
+
 
 ### Researchers
 
@@ -47,6 +59,10 @@ Date: Tuesday, 19 May 2026.
 | --- | --- |
 | Pietro Novelli | AI4Science, Representation Learning |
 | Vladimir Kostic | Numerical Linear Algebra, Operator Learning, Kernel Methods |
+
+
+<br>
+
 
 ## Program
 

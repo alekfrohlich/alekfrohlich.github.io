@@ -6,8 +6,21 @@ description:
 nav: false
 ---
 
-Location: Italian Institute of Technology, Center for Human Technologies, Tower B at GREAT Campus - Parco Scientifico e Tecnologico, Via Enrico Melen, 83, 16152 Genoa, Italy. Pita
-Date: Tuesday, 19 May 2026. Pitagora room 10th floor.
+<dl class="workshop-details">
+  <div class="workshop-details__item">
+    <dt><i class="far fa-calendar-alt" aria-hidden="true"></i> Date</dt>
+    <dd><time datetime="2026-05-19">Tuesday, 19 May 2026</time></dd>
+  </div>
+  <div class="workshop-details__item">
+    <dt><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Location</dt>
+    <dd>
+      <strong>Pitagora Room, 10th floor</strong><br>
+      Italian Institute of Technology, Center for Human Technologies<br>
+      Tower B, GREAT Campus - Parco Scientifico e Tecnologico<br>
+      Via Enrico Melen 83, 16152 Genoa, Italy
+    </dd>
+  </div>
+</dl>
 
 ## Christoph's Group
 

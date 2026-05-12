@@ -20,7 +20,7 @@ nav: false
   <figcaption>
     Genoa, Porto Antico
     <span class="workshop-image-credit">
-      Description: Italiano: Barche ormeggiate nel porto antico di Genova. Date: 5 March 2010. Source: Own work. Author: Alessio Sbarbaro, User:Yoggysot. Permission: own work, copyleft; multi-license with GFDL and Creative Commons CC-BY-SA-3.0 and older versions 2.0 and 1.0. This file was uploaded with Commonist.
+      Genoa, Porto Antico, adapted from Alessio Sbarbaro — CC BY-SA 3.0.
     </span>
   </figcaption>
 </figure>

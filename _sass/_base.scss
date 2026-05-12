@@ -164,6 +164,8 @@ blockquote {
 }
 
 .workshop-logos {
+  --workshop-logo-height: 4rem;
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -188,6 +190,7 @@ blockquote {
   img {
     display: block;
     width: auto;
+    height: var(--workshop-logo-height);
     max-width: 100%;
     object-fit: contain;
   }
@@ -195,18 +198,10 @@ blockquote {
 
 .workshop-logo-link--iit {
   flex: 0 1 12rem;
-
-  img {
-    height: 4.2rem;
-  }
 }
 
 .workshop-logo-link--ista {
-  flex: 1 1 18rem;
-
-  img {
-    height: 4rem;
-  }
+  flex: 0 1 12rem;
 }
 
 .workshop-city-preview {
@@ -284,6 +279,8 @@ blockquote {
 
 @media (max-width: 575px) {
   .workshop-logos {
+    --workshop-logo-height: 2.75rem;
+
     gap: 1rem;
     padding: 0.875rem 1rem;
   }
@@ -294,18 +291,10 @@ blockquote {
 
   .workshop-logo-link--iit {
     flex: 1 1 7rem;
-
-    img {
-      height: 2.9rem;
-    }
   }
 
   .workshop-logo-link--ista {
-    flex-basis: 10rem;
-
-    img {
-      height: 2.75rem;
-    }
+    flex: 1 1 7rem;
   }
 
   .workshop-city-preview img {

@@ -36,6 +36,10 @@ nav: false
       Via Enrico Melen 83, 16152 Genoa, Italy
     </dd>
   </div>
+  <div class="workshop-details__item">
+    <dt><i class="fas fa-users" aria-hidden="true"></i> Organizers</dt>
+    <dd>Massimiliano Pontil, Alek Fröhlich, Elisa Vigo</dd>
+  </div>
 </dl>
 
 
@@ -54,6 +58,8 @@ nav: false
 | 15:30-18:00 Poster Session |
 | 18:00 | Closing Session |
 | 20:00 | Workshop Dinner at Restaurant "La Forchetta Curiosa" |
+
+<br>
 
 ## Poster Session
 

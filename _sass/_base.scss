@@ -177,6 +177,25 @@ blockquote {
   background: $white-color;
 }
 
+.workshop-organizer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.workshop-organizer__label {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--global-theme-color);
+}
+
+.workshop-support {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+}
+
 .workshop-logo-link {
   display: flex;
   align-items: center;
@@ -281,8 +300,14 @@ blockquote {
   .workshop-logos {
     --workshop-logo-height: 2.75rem;
 
+    flex-direction: column;
     gap: 1rem;
     padding: 0.875rem 1rem;
+  }
+
+  .workshop-organizer {
+    flex-direction: column;
+    gap: 0.35rem;
   }
 
   .workshop-logo-link {

@@ -8,14 +8,10 @@ nav: false
 
 <div class="workshop-logos" aria-label="Workshop organizer and supporting institution">
   <div class="workshop-organizer">
-    <span class="workshop-organizer__label">Organizer</span>
     <a class="workshop-logo-link workshop-logo-link--iit" href="https://www.iit.it/" aria-label="Italian Institute of Technology">
       <img src="{{ '/assets/img/IIT_logo.png' | relative_url }}" alt="Italian Institute of Technology logo">
     </a>
   </div>
-  <p class="workshop-support">
-    with support from <a href="https://ista.ac.at/">ISTA</a>
-  </p>
 </div>
 
 <figure class="workshop-city-preview">
@@ -41,7 +37,7 @@ nav: false
   </div>
   <div class="workshop-details__item">
     <dt><i class="fas fa-users" aria-hidden="true"></i> Organizers</dt>
-    <dd>Massimiliano Pontil, Alek Fröhlich, Elisa Vigo</dd>
+    <dd>Massimiliano Pontil, Elisa Vigo, and Alek Fröhlich with support from ISTA.</dd>
   </div>
 </dl>
 

@@ -38,66 +38,38 @@ nav: false
   </div>
 </dl>
 
-## Christoph's Group
-
-### PhD Students
-
-| Name | Research topics |
-| --- | --- |
-| Alexandra Volkova | LLM Efficiency |
-| Fabian Kresse | Verifiable (Binary) Network |
-| Max Cairney-Leeming | Differential Privacy |
-| Nikita Kalinin | Differential Privacy |
-| Hossein Zakerinia | Transfer Learning Theory |
-| Peter Súkeník | Theory of Deep Learning |
-| Ileana Rugina | LLM Safety/Security |
-| Cristina Lopez Amado | Deep Learning Theory |
-
-
-<br>
-
-
-## Massi's Group
-
-### PhD Students
-
-| Name | Research topics |
-| --- | --- |
-| Alek Fröhlich | Causal Inference, Uncertainty Quantification, Representation Learning |
-| Daniel Perazzo | Causal Inference, Climate Sciences, Representation Learning |
-| Erfan Mirzaei | PAC-Bayes, Deep Learning Theory |
-| Matia Bojovic | Numerical Optimization, Adaptive Methods |
-
-
-<br>
-
-
-### Postdocs
-
-| Name | Research topics |
-| --- | --- |
-| Giacomo Turri | AI4Science, Representation Learning |
-
-
-<br>
-
-
-### Researchers
-
-| Name | Research topics |
-| --- | --- |
-| Pietro Novelli | AI4Science, Representation Learning |
-| Vladimir Kostic | Numerical Linear Algebra, Operator Learning, Kernel Methods |
-
-
-<br>
-
 
 ## Program
 
 | Time | Session |
 | --- | --- |
-| 10h-12h | Lampert's group: 8 PhD presentations (1h) + overview talk (30m) |
-| 12h-13h30 | Lunch break |
-| 13h30-15h | Massi's group: 4 PhD presentations (+1 postdoc) (45m) + overview talk (30m) |
-| 15h-17h | Coffee break + poster session |
+| 10:00-10:15 | Welcome|
+| 10:15-11:00 | Keynote Talk: Christoph Lampert |
+| 11:00-11:15 | Coffee Break |
+| 11:15-12:00 | Poster Teasers |
+| 12:00-13:30 | Lunch Break |
+| 13:30-14:15 | Keynote Talk: Massimiliano Pontil |
+| 14:15-15:00 | Poster Teasers |
+| 15:00-15:30 | Coffee Break, Group Photo |
+| 15:30-18:00 Poster Session |
+| 18:00 | Closing Session |
+| 20:00 | Workshop Dinner at Restaurant "La Forchetta Curiosa" |
+
+## Poster Session
+
+- Matia Bojovic: Numerical Optimization, Adaptive Methods
+- Max Cairney-Leeming: Differential Privacy
+- Lisa Cuneo:  Inverse Problems
+- Alek Fröhlich: Causal Inference, Uncertainty Quantification, Representation Learning
+- Fabian Kresse: Verifiable (Binary) Network
+- Nikita Kalinin: Differential Privacy
+- Cristina Lopez Amado: Deep Learning Theory
+- Erfan Mirzaei: PAC-Bayes, Deep Learning Theory
+- Daniel Perazzo: Causal Inference, Climate Sciences, Representation Learning
+- Ileana Rugina: LLM Safety/Security
+- Peter Súkeník: Theory of Deep Learning
+- Giacomo Turri: AI4Science, Representation Learning
+- Alexandra Volkova: LLM Efficiency
+- Hossein Zakerinia: Transfer Learning Theory
+- Pietro Novelli: AI4Science, Reinforcement Learning, Representation Learning
+- Emanuele Ballarin: Representation Learning, Reinforcement Learning

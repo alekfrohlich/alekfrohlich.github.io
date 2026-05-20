@@ -39,6 +39,10 @@ nav: false
       Via Enrico Melen 83, 16152 Genoa, Italy
     </dd>
   </div>
+  <div class="workshop-details__item">
+    <dt><i class="fas fa-users" aria-hidden="true"></i> Organizers</dt>
+    <dd>Massimiliano Pontil, Alek Fröhlich, Elisa Vigo</dd>
+  </div>
 </dl>
 
 

@@ -54,7 +54,7 @@ nav: false
 | 13:30-14:15 | Keynote Talk: Massimiliano Pontil |
 | 14:15-15:00 | Poster Teasers |
 | 15:00-15:30 | Coffee Break, Group Photo |
-| 15:30-18:00 Poster Session |
+| 15:30-18:00 | Poster Session |
 | 18:00 | Closing Session |
 | 20:00 | Workshop Dinner at Restaurant "La Forchetta Curiosa" |
 

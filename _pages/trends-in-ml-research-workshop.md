@@ -37,7 +37,7 @@ nav: false
   </div>
   <div class="workshop-details__item">
     <dt><i class="fas fa-users" aria-hidden="true"></i> Organizers</dt>
-    <dd>Massimiliano Pontil, Elisa Vigo, and Alek Fröhlich with support from ISTA.</dd>
+    <dd>Massimiliano Pontil, Elisa Vigo, and Alek Fröhlich with support from ISTA</dd>
   </div>
 </dl>
 

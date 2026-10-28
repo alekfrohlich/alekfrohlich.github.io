@@ -23,7 +23,7 @@ I am a second-year [ELLIS](https://ellis.eu/) Ph.D. student at the [Italian Inst
 
 Previously, I was a research fellow at the [University of São Paulo Medical School](https://www5.usp.br/english/institutional/) working with [Daniel Tiezzi](https://scholar.google.com/citations?user=h50SV8wAAAAJ&hl=en&oi=ao).
 
-I am broadly interested on bridging machine learning and medicine, where data is often scarce, models are commonly misspecified, and confounding factors abound. On the theoretical side, my interests lie in causality, uncertainty quantification, and developing rigorous guarantees for machine learning algorithms. On the applied side, I have been using machine learning and statistics to explore the vast amount of information contained in hematoxylin and eosin whole slide images and improving decision-making in clinical settings, particularly breast cancer care.
+I am broadly interested on bridging machine learning and science, where data is often scarce, models are commonly misspecified, and confounding factors abound. On the theoretical side, my interests lie in causality, uncertainty quantification, and developing rigorous representation learning algorithms. On the applied side, I have been using machine learning and statistics to explore the vast amount of information contained in hematoxylin and eosin whole slide images and improving decision-making in clinical settings, particularly breast cancer care.
 
 <!-- I received a Master's degree in Applied Mathematics from the Universidade Federal de Santa Catarina (UFSC), where I also received a Bachelor's degree in Computer Science. -->
 

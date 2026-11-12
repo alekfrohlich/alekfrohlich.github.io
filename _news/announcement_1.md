@@ -1,8 +1,9 @@
 ---
-layout: post
-date: 2015-10-22 15:59:00-0400
+layout: page
+title: Three papers at ICML 2026
+year: 2026
+order: 1
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+I presented three papers at **ICML 2026** in Seoul, South Korea.

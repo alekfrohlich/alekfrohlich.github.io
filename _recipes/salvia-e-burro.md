@@ -1,6 +1,6 @@
 ---
 title: Salvia e burro
-published: false
+published: true
 photo: salvia_e_burro.jpg
 next_time:
 ---

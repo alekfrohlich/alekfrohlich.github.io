@@ -10,25 +10,27 @@ sitemap: false
 </header>
 
 {% assign recipes = site.recipes | sort_natural: 'title' %}
-{% assign sections = 'Pastas,Risottos' | split: ',' %}
+{% assign sections = 'Pastas,Risottos,Meat & Poultry,Sushi,Desserts' | split: ',' %}
 {% for section in sections %}
-  {% assign section_id = section | downcase %}
+  {% assign section_id = section | slugify %}
   {% assign section_recipes = recipes | where: 'section', section_id %}
   <section class="recipe-section" aria-labelledby="{{ section_id }}-heading">
-    <h2 id="{{ section_id }}-heading">{{ section }}</h2>
+    <h2 id="{{ section_id }}-heading">{{ section | escape }}</h2>
     {% if section_recipes.size > 0 %}
       <ul class="recipe-grid" role="list">
         {% for recipe in section_recipes %}
           <li>
             <a class="recipe-card" href="{{ recipe.url | relative_url }}">
-              <img src="{{ recipe.photo | prepend: '/recipes/' | relative_url | escape }}" alt="" loading="lazy" decoding="async">
+              {% if recipe.photo and recipe.photo != empty %}
+                <img src="{{ recipe.photo | prepend: '/recipes/' | relative_url | escape }}" alt="" loading="lazy" decoding="async">
+              {% endif %}
               <h3 class="recipe-card-title">{{ recipe.title | escape }}</h3>
             </a>
           </li>
         {% endfor %}
       </ul>
     {% else %}
-      <p>No {{ section_id }} yet.</p>
+      <p>No {{ section | downcase | escape }} yet.</p>
     {% endif %}
   </section>
 {% endfor %}

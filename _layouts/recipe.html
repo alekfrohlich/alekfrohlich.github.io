@@ -7,7 +7,9 @@ layout: cookbook
     <h1>{{ page.title | escape }}</h1>
   </header>
 
-  <img class="recipe-photo" src="{{ page.photo | prepend: '/recipes/' | relative_url | escape }}" alt="{{ page.photo_alt | default: page.title | escape }}">
+  {% if page.photo and page.photo != empty %}
+    <img class="recipe-photo" src="{{ page.photo | prepend: '/recipes/' | relative_url | escape }}" alt="{{ page.photo_alt | default: page.title | escape }}">
+  {% endif %}
 
   <div class="recipe-content">
     {{ content }}

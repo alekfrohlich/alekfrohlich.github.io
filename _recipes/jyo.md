@@ -3,7 +3,7 @@ title: Jyo
 published: true
 section: sushi
 photo: floripa_jyos.jpg
-cover_photo: floripa_jyos_card.jpg
+show_full_photo: true
 next_time:
 ---
 

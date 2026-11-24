@@ -1,0 +1,26 @@
+---
+layout: cookbook
+title: Recipes
+permalink: /recipes/
+nav: false
+sitemap: false
+---
+<header class="cookbook-header">
+  <h1>{{ page.title | escape }}</h1>
+</header>
+
+{% assign recipes = site.recipes | sort_natural: 'title' %}
+{% if recipes.size > 0 %}
+  <ul class="recipe-grid" role="list">
+    {% for recipe in recipes %}
+      <li>
+        <a class="recipe-card" href="{{ recipe.url | relative_url }}">
+          <img src="{{ recipe.photo | prepend: '/recipes/' | relative_url | escape }}" alt="" loading="lazy" decoding="async">
+          <h2>{{ recipe.title | escape }}</h2>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No recipes yet.</p>
+{% endif %}

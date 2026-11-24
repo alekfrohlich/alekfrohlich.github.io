@@ -1,0 +1,26 @@
+---
+layout: cookbook
+---
+<article class="recipe">
+  <header class="recipe-header">
+    <a class="recipe-back" href="{{ '/recipes/' | relative_url }}">All recipes</a>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <img class="recipe-photo" src="{{ page.photo | prepend: '/recipes/' | relative_url | escape }}" alt="{{ page.photo_alt | default: page.title | escape }}">
+
+  <div class="recipe-content">
+    {{ content }}
+
+    {% if page.source and page.source != empty %}
+      <p class="recipe-source"><a href="{{ page.source | escape }}">Original recipe</a></p>
+    {% endif %}
+
+    {% if page.next_time and page.next_time != empty %}
+      <section class="recipe-notes" aria-labelledby="next-time">
+        <h2 id="next-time">What I’d change next time</h2>
+        {{ page.next_time | markdownify }}
+      </section>
+    {% endif %}
+  </div>
+</article>

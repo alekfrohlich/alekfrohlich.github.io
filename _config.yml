@@ -250,6 +250,7 @@ defaults:
     values:
       layout: recipe
       sitemap: false
+      section: pastas
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

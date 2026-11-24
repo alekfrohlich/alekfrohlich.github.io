@@ -42,7 +42,7 @@ a:focus-visible {
   border-bottom: 1px solid var(--line);
 }
 
-h1, h2 {
+h1, h2, .recipe-card-title {
   font-family: var(--heading-font);
   font-weight: 400;
   line-height: 1.12;
@@ -57,6 +57,18 @@ h1 {
 
 h2 {
   font-size: clamp(1.5rem, 4vw, 2rem);
+}
+
+.recipe-section + .recipe-section {
+  margin-top: clamp(2.5rem, 6vw, 4rem);
+}
+
+.recipe-section h2 {
+  margin: 0 0 1rem;
+}
+
+.recipe-section p {
+  margin: 0;
 }
 
 .recipe-grid {
@@ -93,7 +105,7 @@ h2 {
   background: var(--line);
 }
 
-.recipe-card h2 {
+.recipe-card-title {
   margin: 0;
   padding: 0.85rem 1rem 1rem;
   font-size: 1.5rem;

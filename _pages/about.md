@@ -25,6 +25,8 @@ Previously, I was a research fellow at the [University of São Paulo Medical Sch
 
 I am broadly interested on bridging machine learning and science, where data is often scarce, models are commonly misspecified, and confounding factors abound. On the theoretical side, my interests lie in causality, uncertainty quantification, and developing rigorous representation learning algorithms. On the applied side, I have been using machine learning and statistics to explore the vast amount of information contained in hematoxylin and eosin whole slide images and improving decision-making in clinical settings, particularly breast cancer care.
 
+In my spare time, I like to cook and get together with friends.
+
 <!-- I received a Master's degree in Applied Mathematics from the Universidade Federal de Santa Catarina (UFSC), where I also received a Bachelor's degree in Computer Science. -->
 
 
